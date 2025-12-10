@@ -1,0 +1,132 @@
+  /* BODY STYLES */
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://i.pinimg.com/1200x/97/d4/16/97d416048855b1eaae838f78b5e0e28c.jpg);
+    background-size:cover;
+    margin: 0;
+}
+
+h1 {
+    text-align: left;
+    display: inline;
+    font-family: abril fatface, cursive;
+}
+
+.body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.navigation {
+    display: inline-block;
+    margin: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+  /* TITLE STYLES */
+
+.container {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+  /* CONTAINER STYLES */
+
+#about-me {
+    padding: 10px 40px;
+    margin: 40px;
+    border-radius: 20px;
+    border-color: black;
+}
+
+#contacts {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 60px;
+    border-color: black;
+}
+
+#projects {
+    padding: 10px 40px;
+    margin: 40px;
+    border-radius: 20px;
+    border-color: black;
+}
+
+nav p {
+    display: inline;
+    margin-right: 140px;
+    margin-left: 140px;
+    text-align: center;
+}
+
+#video {
+    border-radius: 20px;
+    margin-top: auto;
+    margin-left: 340px;
+    justify-content: center;
+    align-items: center;
+}
+
+ /* LINK STYLES */
+
+a:link {
+    color: black;
+    text-decoration: none;
+    margin-bottom: 2px blue;
+}
+
+a:visited {
+    color: purple;
+    
+}
+
+ /* NAVIGATION STYLES */
+
+#HOME {
+    text-decoration: underline;
+} 
+
+#ABOUT-ME {
+    text-decoration: underline;
+} 
+
+#CONTACTS {
+    text-decoration: underline;
+} 
+
+#PROJECTS {
+    text-decoration: underline;
+} 
+
+#nav-bar {
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+    display: inline;
+}
+
+.navigation {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+ /* FOOTER STYLES */
+
+.footer {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 30px;
+    appearance: none;   
+}
