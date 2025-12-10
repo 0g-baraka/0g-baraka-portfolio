@@ -1,2 +1,2 @@
 # 0g-baraka-portfolio
-My portfolio site
+This is Gabe's portfolio site
